@@ -1,9 +1,7 @@
 # Data Scientist
 
-### Education
-Applied Analytics, MS
-
-Economics and Mathematics, BA 
+## Education
+Applied Analytics, MS | Economics and Mathematics, BA 
 
 ## Work Experience
 Senior Analyst @ Horizon Media, LLC
